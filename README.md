@@ -127,8 +127,8 @@ Here is a simple **Jenkins CI/CD pipeline architecture diagram**:
 * Optionally, Jenkins can notify teams (via email, Slack, etc.) and generate reports.
 
 
-## Project on Jekins Installation
-1. start by upadating, this checks for the latest versions of packages, so the system knows what updates are available.
+## Project on Jekins
+1. start by updating, this checks for the latest versions of packages, so the system knows what updates are available.
 ```
 sudo apt update
 ```
@@ -205,4 +205,4 @@ then input it into the Unlock jekins web page and submit
 10. the jekins page
 ![caption](/img/10.jekins-page.jpg)
 
-We have successfully install jekins on our ubuntu os. 
+We have successfully install Jekins on our ubuntu os. 
